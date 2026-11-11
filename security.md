@@ -163,6 +163,6 @@ nada" cuando en realidad nunca reinició.
 
 ---
 
-*Call of Duty Warzone · Actualizado 2026-11-10 · Compartido bajo licencia MIT*
+*Call of Duty Warzone · Actualizado 2026-11-11 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-11-10 -->
+<!-- updated 2026-11-11 -->
